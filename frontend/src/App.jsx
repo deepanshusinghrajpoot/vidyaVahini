@@ -17,6 +17,8 @@ import Navebar from './components/student/Navebar'
 
 import "quill/dist/quill.snow.css";
 
+import { ToastContainer } from 'react-toastify';
+
 
 
 
@@ -36,6 +38,8 @@ const App = () => {
   return (
     <div className='text-default min-h-screen bg-white'>
          
+          <ToastContainer />
+          
          {!isEducatorRoute && <Navebar />}
          
          <Routes>

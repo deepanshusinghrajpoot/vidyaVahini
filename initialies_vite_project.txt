@@ -1,0 +1,20 @@
+first commmond :- npm create vite@latest
+install alll dependencies :- npm install
+
+
+
+
+=========== Package and role ==================
+
+npm i react-router-dom :- using react-router-dom package done routing on our react project
+npm i react-youtube :- using react-youtube package add youtube vedio on our project
+npm i uniqid :- using uniqid package generate hexadecimal id for our course
+npm i quill :- using quill package generate reach text for our cource description
+npm i humanize-duration :- using humanize-duration package convert video duration in hours, minutes, second
+npm i rc-progress :- using rc-progress package generate progress bar for lecture completion
+npm i axios :- using axios package to make API call
+npm i react-toastify :- responce or notification using react-tostify package
+
+ ---------------- integrate tailwind css using tailwind css website --------------------------
+ ---------------- integrate clerk by clerk using clerk website  ------------------------------
+

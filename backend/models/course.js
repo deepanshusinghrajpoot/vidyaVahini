@@ -42,7 +42,7 @@ const courseSchema = new mongoose.Schema({
     educator: { type: String, ref: 'User', required: true },
     enrolledStudents: [
         { type: String, ref: 'User' },
-    ],
+    ], 
 
 },{timestamps: true, minimize: false })     
 
